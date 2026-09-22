@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Banner de Enzo" />
+<img src="./assets/banner-v2.svg" width="100%" alt="Banner de Enzo" />
 
 <br/>
 
@@ -25,6 +25,7 @@ Uso este espaço para acompanhar minha evolução na área de tecnologia e desen
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=58A6FF)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=58A6FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=58A6FF)
 ![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=58A6FF)
@@ -102,6 +103,6 @@ Uso este espaço para acompanhar minha evolução na área de tecnologia e desen
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="Rodapé do perfil" />
+<img src="./assets/footer-v2.svg" width="100%" alt="Rodapé do perfil" />
 
 </div>
