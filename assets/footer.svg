@@ -3,5 +3,5 @@
   <path d="M70 34H1130" stroke="#1f6feb" stroke-width="2" opacity="0.55"/>
   <circle cx="70" cy="34" r="4" fill="#58a6ff"/>
   <circle cx="1130" cy="34" r="4" fill="#58a6ff"/>
-  <text x="600" y="77" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="15" letter-spacing="2">FINANCE × TECHNOLOGY × GAMES</text>
+  <text x="600" y="77" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="15" letter-spacing="2">ADMINISTRATION × TECHNOLOGY × GAMES</text>
 </svg>
