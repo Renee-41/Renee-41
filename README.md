@@ -12,7 +12,7 @@
 
 Sou **Enzo**, trabalho como **Auxiliar Administrativo** e estudo **TI na Fortec**.
 
-Uso este espaço para acompanhar minha evolução na área de tecnologia e desenvolver projetos próprios, principalmente ligados a interfaces, web e jogos.
+Uso este espaço para acompanhar minha evolução na área de tecnologia e desenvolver projetos próprios, principalmente ligados a **software, interfaces, web, jogos, automação e IA local**.
 
 - Atualmente conciliando **rotina administrativa + tecnologia**
 - Estudando e praticando desenvolvimento através de projetos
@@ -26,6 +26,7 @@ Uso este espaço para acompanhar minha evolução na área de tecnologia e desen
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=58A6FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=58A6FF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=58A6FF)
 ![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=58A6FF)
@@ -35,6 +36,16 @@ Uso este espaço para acompanhar minha evolução na área de tecnologia e desen
 </div>
 
 ## Projetos
+
+<div align="center">
+
+<img src="./assets/project-luminex-lulu.svg" width="72%" alt="Luminex & Lulu — assistente local multiagente em desenvolvimento" />
+
+**Luminex & Lulu** — desenvolvimento de um assistente pessoal local com arquitetura multiagente, memória persistente, automação de arquivos, roteamento por linguagem natural, controle de permissões e recuperação de operações. Projeto preparado para integração com modelos de IA locais e interação por voz.
+
+</div>
+
+<br/>
 
 <table>
   <tr>
