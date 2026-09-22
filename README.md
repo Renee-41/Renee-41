@@ -4,17 +4,17 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3300&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Auxiliar+Financeiro;Estudante+de+TI+na+Fortec;Aprendendo+e+construindo+projetos+na+pr%C3%A1tica" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3300&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Auxiliar+Administrativo;Estudante+de+TI+na+Fortec;Aprendendo+e+construindo+projetos+na+pr%C3%A1tica" alt="Typing animation" />
 
 </div>
 
 ## Sobre mim
 
-Sou **Enzo**, trabalho como **Auxiliar Financeiro** e estudo **TI na Fortec**.
+Sou **Enzo**, trabalho como **Auxiliar Administrativo** e estudo **TI na Fortec**.
 
 Uso este espaço para acompanhar minha evolução na área de tecnologia e desenvolver projetos próprios, principalmente ligados a interfaces, web e jogos.
 
-- Atualmente conciliando **finanças + tecnologia**
+- Atualmente conciliando **rotina administrativa + tecnologia**
 - Estudando e praticando desenvolvimento através de projetos
 - Perfil: **@Renee-41**
 
