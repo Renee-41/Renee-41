@@ -37,16 +37,6 @@ Uso este espaço para acompanhar minha evolução na área de tecnologia e desen
 
 ## Projetos
 
-<div align="center">
-
-<img src="./assets/project-luminex-lulu.svg" width="72%" alt="Luminex & Lulu — assistente local multiagente em desenvolvimento" />
-
-**Luminex & Lulu** — desenvolvimento de um assistente pessoal local com arquitetura multiagente, memória persistente, automação de arquivos, roteamento por linguagem natural, controle de permissões e recuperação de operações. Projeto preparado para integração com modelos de IA locais e interação por voz.
-
-</div>
-
-<br/>
-
 <table>
   <tr>
     <td width="50%" align="center">
