@@ -4,17 +4,18 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3300&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Auxiliar+Administrativo;Estudante+de+TI+na+Fortec;Aprendendo+e+construindo+projetos+na+pr%C3%A1tica" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3300&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Administrativo+e+Financeiro;T%C3%A9cnico+em+Inform%C3%A1tica+na+Fortec;Criador+do+FinanceFlow" alt="Typing animation" />
 
 </div>
 
 ## Sobre mim
 
-Sou **Enzo**, trabalho como **Auxiliar Administrativo** e estudo **TI na Fortec**.
+Sou **Enzo**, tenho experiência como **Auxiliar Administrativo no setor financeiro** e estudo **Técnico em Informática na Fortec**.
 
 Uso este espaço para acompanhar minha evolução na área de tecnologia e desenvolver projetos próprios, principalmente ligados a **software, interfaces, web, jogos, automação e IA local**.
 
-- Atualmente conciliando **rotina administrativa + tecnologia**
+- Aberto a oportunidades nas áreas **Administrativa, Financeira e de Tecnologia**
+- Interesse em **automação de processos administrativos**, desenvolvimento e suporte
 - Estudando e praticando desenvolvimento através de projetos
 - Perfil: **@Renee-41**
 
@@ -22,6 +23,7 @@ Uso este espaço para acompanhar minha evolução na área de tecnologia e desen
 
 <div align="center">
 
+![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=58A6FF)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=58A6FF)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=58A6FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF)
@@ -35,7 +37,17 @@ Uso este espaço para acompanhar minha evolução na área de tecnologia e desen
 
 </div>
 
-## Projetos
+## Projeto em destaque
+
+<div align="center">
+  <a href="https://github.com/Renee-41/FinanceFlow">
+    <img src="./assets/project-financeflow.svg" width="100%" alt="FinanceFlow - dashboard financeiro em Excel" />
+  </a>
+</div>
+
+**[FinanceFlow](https://github.com/Renee-41/FinanceFlow)** é um dashboard de controle financeiro em Microsoft Excel, sem macros, feito para mostrar como organizar processos administrativos: receitas e despesas, vencimentos e contas em atraso, indicadores e gráficos, validação de lançamentos com alerta de duplicidade e conciliação assistida de extratos. Usa dados fictícios para demonstração.
+
+## Outros projetos
 
 <table>
   <tr>
